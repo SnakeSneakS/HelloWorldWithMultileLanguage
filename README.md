@@ -1,5 +1,5 @@
 # usage
-- ```git clone https://github.com/SnakeSneakS/HelloWorldWithSevenLanguage.git```
+- ```git clone https://github.com/SnakeSneakS/HelloWorldWithMultipleLanguage.git```
 - ```cd HelloWorldWithMultipleLanguage```
 - ```docker compose up -d --build```
 - enter docker container (maybe ```docker exec -it HelloWorld sh```)
