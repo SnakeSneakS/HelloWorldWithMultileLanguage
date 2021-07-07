@@ -1,6 +1,7 @@
 version: '2.38' #<-特に意味はない。なんかカッコ良いから。
 services:
-    test:
+    helloworld:
+        container_name: HelloWorld
         build:
             context: ./
             dockerfile: Dockerfile
