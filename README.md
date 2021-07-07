@@ -1,6 +1,6 @@
 # usage
-- ```git clone https://github.com/SnakeSneakS/HelloWorldWithMultileLanguage.git```
-- ```cd HelloWorldWithMultileLanguage```
+- ```git clone https://github.com/SnakeSneakS/HelloWorldWithMultipleLanguage.git```
+- ```cd HelloWorldWithMultipleLanguage```
 - ```docker-compose up -d --build```
 - enter docker container (maybe ```docker exec -it HelloWorld sh```)
 - in container, ```cd Hello``` and ```make run```, then you see you say "Hello world!" using 7 language. 
